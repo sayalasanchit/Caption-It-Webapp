@@ -1,0 +1,4 @@
+*.pyc
+*.ipynb
+caption_it_gpu.py
+sample_image.jpg
